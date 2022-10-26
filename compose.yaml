@@ -1,0 +1,13 @@
+services:
+  helcaraxe:
+    build: .
+    container_name: helcaraxe
+    ports:
+      - 3791:80
+  ormal:
+    build: ./ormal
+    container_name: ormal
+    ports:
+      - 7001:80
+    volumes:
+      - ./ormal:/opt/ormal
