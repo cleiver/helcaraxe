@@ -1,0 +1,3 @@
+[submodule "ormal"]
+	path = ormal
+	url = git@github.com:cleiver/ormal.git
