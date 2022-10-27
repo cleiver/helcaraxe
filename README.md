@@ -6,7 +6,7 @@
 
 Helcaraxë era um território inóspito que ligava Aman à Terra-Média. Paralelamente, pretendo configurar aqui um ponto central de configuação e interconexão dos diversos serviços que pretendo desenvolver.
 
-Quais serviços? Coisas do trabalho. Sabe quando você acha que poderia desenvolver os sistemas de modo melhor do que eles foram desenvolvidos pelas equipes da firma? Quando o tédio bate a gente se acha capaz de tudo, vamos ver o que vai sair daqui. 🫣
+Quais serviços? Coisas do trabalho. Sabe quando você acha que poderia desenvolver os sistemas de modo melhor do que eles foram desenvolvidos pelas equipes da firma? Quando o tédio bate a gente se acha capaz de tudo, vamos ver o que vai sair daqui (provavelmente nada 👀).
 
 ## Pré-requisitos
 - [Git](https://git-scm.com/)
