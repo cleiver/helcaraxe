@@ -4,6 +4,8 @@ services:
     container_name: helcaraxe
     ports:
       - 3791:80
+    volumes:
+      - ./src:/usr/local/apache2/htdocs/
   ormal:
     build: ./ormal
     container_name: ormal
